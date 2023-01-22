@@ -1,0 +1,27 @@
+[
+    {
+        "icon": "fal fa-th-large",
+        "TotalProjects":5,
+        "HeaderText": "Total Projects"
+    },
+    {
+        "icon": "far fa-check-circle",
+        "TotalProjects":1,
+        "HeaderText": "Completed"
+    },
+    {
+        "icon": "fas fa-sync",
+        "TotalProjects":3,
+        "HeaderText": "Ongoing"
+    },
+    {
+        "icon":"fal fa-exclamation-triangle",
+        "TotalProjects":1,
+        "HeaderText": "Delayed"
+    },
+    {
+        "icon": "fal fa-user-friends",
+        "TotalProjects":5,
+        "HeaderText": "Employees"
+    }
+]
