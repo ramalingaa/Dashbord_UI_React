@@ -1,0 +1,60 @@
+{
+    "FooterData": [
+        {
+            "title": "Insurance App",
+            "section":"Verti",
+            "img":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "totalBudgetText":"Total Budget",
+            "totalBudgetValue": "70,000€",
+            "profitabilityText":"Profitability(100%)",
+            "profitabilityValue": "-2,500€",
+            "actualHoursText": "Actual hours: 1:100",
+            "actualHoursValue":"100 hours over Budget!",
+            "color": "red",
+            "fill": "full"   ,
+            "secondColor":""
+        },
+        {
+            "title": "Neo",
+            "section":"Bankia",
+            "img":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "totalBudgetText":"Total Budget",
+            "totalBudgetValue": "70,000€",
+            "profitabilityText":"Profitability(100%)",
+            "profitabilityValue": "4,000€",
+            "actualHoursText": "Actual hours: 1:100",
+            "actualHoursValue":"1000 sold hours " ,
+            "color": "rgb(227, 182, 123)"  ,
+            "fill": "half",
+            "secondColor":"rgba(227, 182, 123, 0.5)"  
+        },
+        {
+            "title": "VR Website",
+            "section":"Bankia",
+            "img":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "totalBudgetText":"Total Budget",
+            "totalBudgetValue": "70,000€",
+            "profitabilityText":"Profitability(100%)",
+            "profitabilityValue": "4000€",
+            "actualHoursText": "Actual hours: 1:100",
+            "actualHoursValue":"2000 sold jours" ,
+            "color": "rgb(23, 170, 119)"   ,
+            "fill": "half"      ,
+            "secondColor":"rgba(23, 170, 119, 0.5)"  
+        },
+        {
+            "title": "VR Website",
+            "section":"Bankia",
+            "img":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "totalBudgetText":"Total Budget",
+            "totalBudgetValue": "70,000€",
+            "profitabilityText":"Profitability(100%)",
+            "profitabilityValue": "4,000€",
+            "actualHoursText": "Actual hours: 1:100",
+            "actualHoursValue":"1100 sold hours" ,
+            "color": "rgb(23, 170, 119)",
+            "fill": "full",
+            "secondColor":""  
+        }
+    ]
+}

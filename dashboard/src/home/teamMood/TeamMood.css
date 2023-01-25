@@ -1,0 +1,54 @@
+.teamMood-container {
+    gap: 1rem;
+    padding: 1rem;
+}
+
+.mood-container {
+    gap: 0.5rem;
+    padding: 0.5rem 0;
+}
+.subtext {
+    color: var(--grey-color);
+    font-size: 0.7rem;
+}
+
+.teamModd-status {
+-webkit-appearance: none; 
+  appearance: none;
+  width: 100%; 
+  height: 0.3rem; 
+  background: var(--range-bgColor); 
+  outline: none; 
+
+}
+
+.teamModd-status::-moz-range-thumb {
+    width: 2rem; 
+    height: 2rem; 
+    border: 0;
+  }
+.statusBg0::-moz-range-thumb {
+    background-image: url("https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/neutral-face_1f610.gif");
+    background-size: cover;
+
+}
+.statusBg1::-moz-range-thumb {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIckh588-2XfuYItEYPYX5mTcSDMLCFdUK_IxDMOw&s");
+    background-size: cover;
+
+}
+.statusBg2::-moz-range-thumb {
+    background-image: url("https://cdn.shopify.com/s/files/1/1061/1924/products/Slightly_Smiling_Face_Emoji_87fdae9b-b2af-4619-a37f-e484c5e2e7a4_1024x1024.png?v=1571606036");
+    background-size: cover;
+
+}
+.statusBg3::-moz-range-thumb {
+    background-image: url("https://thumbs.dreamstime.com/b/emoticon-emoji-angry-face-icon-emoticon-emoji-angry-face-icon-116248547.jpg");
+    background-size: cover;
+
+}
+.statusBg4::-moz-range-thumb {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIcDxHN68zMbkz7FHEgpJ6_iNyruJDAZR3wQ&usqp=CAU");
+    background-size: cover;
+
+}

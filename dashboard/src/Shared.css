@@ -1,4 +1,26 @@
+
+:root {
+    --white-color: white;
+    --grey-color: grey;
+    --body-bgColor: rgb(237, 237, 237);
+    --range-bgColor: #d3d3d3;
+    --nav-bgColor: rgb(38, 32, 50);
+    --white-smoke: whitesmoke;
+    --red-color: red;
+    --app-primaryColor: rgb(22, 218, 202);
+    --chart-wrapper: rgb(230, 230, 230);
+    --alert-color: rgb(236, 143, 143);
+    --outline-btn-color: rgb(23, 170, 119);
+
+}
 .flex {
     display: flex;
     flex-direction: row;    
+}
+.flex-column {
+    flex-direction: column;
+}
+.avatar {
+    width: 2rem;
+    height: 2rem;
 }

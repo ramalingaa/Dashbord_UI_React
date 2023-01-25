@@ -1,0 +1,55 @@
+{
+    "HeaderText": "Team mood",
+    "TeamMoodData": [
+        {
+            "profileImage":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "name":"Andrea",
+            "role":"UX Junior",
+            "moodStatus":{
+                "text": "not bad",
+                "value": "2",
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.joypixels.com%2Fprofiles%2Femoji%2Fneutral-face%2F_%2F1.0&psig=AOvVaw2OIU09XIpjrvlANszGJ8Xe&ust=1674736357497000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjG_p7d4vwCFQAAAAAdAAAAABAj"
+            }
+        },
+        {
+            "profileImage":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "name":"Alvaro",
+            "role":"Back end developer",
+            "moodStatus":{
+                "text": "awesome",
+                "value": "5",
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FSmiley&psig=AOvVaw2OIU09XIpjrvlANszGJ8Xe&ust=1674736357497000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjG_p7d4vwCFQAAAAAdAAAAABAt"
+            }
+        },
+        {
+            "profileImage":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "name":"Juan",
+            "role":"UX Senior",
+            "moodStatus":{
+                "text": "good",
+                "value": "4",
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Femojiisland.com%2Fproducts%2Fslightly-smiling-face-emoji-icon&psig=AOvVaw2OIU09XIpjrvlANszGJ8Xe&ust=1674736357497000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjG_p7d4vwCFQAAAAAdAAAAABAE"
+            }
+        },
+        {
+            "profileImage":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "name":"Jose",
+            "role":"Marketing",
+            "moodStatus":{
+                "text": "terrible",
+                "value": "1",
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cosmopolitan.com%2Fuk%2Fmore%2Fnews%2Fa42697%2Fgrimace-face-emoji-is-smiling%2F&psig=AOvVaw2OIU09XIpjrvlANszGJ8Xe&ust=1674736357497000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOjG_p7d4vwCFQAAAAAdAAAAABAJ"
+            }
+        },
+        {
+            "profileImage":"https://avatars.githubusercontent.com/u/87629304?s=48&v=4",
+            "name":"Maria",
+            "role":"UX Junior",
+            "moodStatus":{
+                "text": "okay",
+                "value": "3",
+                "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Femojipedia.org%2Fneutral-face%2F&psig=AOvVaw2OIU09XIpjrvlANszGJ8Xe&ust=1674736357497000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCOjG_p7d4vwCFQAAAAAdAAAAABASx"
+            }
+        }
+    ]
+}

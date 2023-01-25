@@ -1,0 +1,18 @@
+.main-container {
+    display: grid;
+    grid-template-columns: 10fr 2fr;
+    width: 90%;
+    margin: auto;
+    gap: 1.5rem;
+    padding: 1rem;
+   
+}
+.body-container {
+    background-color: var(--body-bgColor);
+    height: 100vh;
+}
+.footer-container {
+    width: 90%;
+    margin: auto;
+    padding: 1rem;
+}

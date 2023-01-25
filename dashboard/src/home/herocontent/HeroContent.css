@@ -1,0 +1,18 @@
+.heroContent-container {
+    display: flex;
+    padding: 1rem 0 0 0;
+    gap: 1.5rem;
+}
+.lineChart {
+    width: 60%;
+
+}
+.chart-wrapper {
+    height: 400px;
+    padding: 1rem;
+    border: 1px solid var(--chart-wrapper);
+    border-radius: 0.2rem;
+}
+.doughnutChart {
+    width: 40%;
+}

@@ -1,0 +1,32 @@
+{
+    "LineChartData" : {
+        "labels": ["","19June", "20June","21June","22June","23June", "24June", "25June"],
+        "datasets": [
+            {
+                "label":"Total Revenue",
+                "borderColor": "rgb(22, 218, 202)",
+                "fill": false,
+                "data": [0,1000, 3500, 3200, 4000, 5500, 6500, 6500],
+                "tension": 0.1
+            }
+        ]
+    },
+    "PieChartData": {
+        "labels": ["Over Budget","On Budget", "Under Budget" ],
+        "datasets": [
+            {
+                "label":"Budget",
+                "borderColor": "rgb(22, 218, 202)",
+                "fill": true,
+                "data": [48,33,19],
+                "tension": 0.1,
+                "backgroundColor": [
+                    "rgb(22, 218, 202)",
+                    "rgb(116, 124, 173",
+                    "red"
+                ],
+                "hoverOffset": 4
+            }
+        ]
+    }
+}

@@ -7,7 +7,7 @@ const Header = () => {
         {
             HeaderList.map((header) => {
                 return (
-                    <div key = {header.icon} className = {`flex singleHeader-container ${header.HeaderText === "Delayed" ? "delayedCard" :""}`}>
+                    <div key = {header.icon} className = {`flex singleHeader-container card-bgColor ${header.HeaderText === "Delayed" ? "delayedCard" :""}`}>
                         <div className = "headerIcon-container">
                             <i className= {`${header.icon} align-icon`}></i>
                         </div>
