@@ -23,13 +23,14 @@
 }
 
 .teamModd-status::-moz-range-thumb {
-    width: 2rem; 
-    height: 2rem; 
-    border: 0;
+   
   }
 .statusBg0::-moz-range-thumb {
     background-image: url("https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/neutral-face_1f610.gif");
     background-size: cover;
+    width: 2rem; 
+    height: 2rem; 
+    border: 0;
 
 }
 .statusBg1::-moz-range-thumb {
