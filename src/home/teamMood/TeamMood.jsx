@@ -1,7 +1,8 @@
 import React from 'react'
 import TeamMoodData from "./local.json"
-import "./TeamMood.css"
+import teamMoodCSss from  "./TeamMood.css"
 const TeamMood = () => {
+    console.log(teamMoodCSss)
   return (
     <div className = "flex flex-column teamMood-container card-bgColor ">
         <h3>{TeamMoodData.HeaderText}</h3>
